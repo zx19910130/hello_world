@@ -1,2 +1,2 @@
 # hello_world
-Use github for the first time.
+I will be the top talent in artificial intelligence.
